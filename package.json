@@ -1,0 +1,20 @@
+{
+    "name": "tushar-plugin-CheckSoftNavigation",
+    "version": "1.0.0",
+    "description": "Cordova plugin to check if soft navigation bar is present",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tushaarv/CheckSoftNavigation.git"
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova",
+      "NavigationBar"
+    ],
+    "author": "Tushar Vengurlekar <tushaarv@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/tushaarv/CheckSoftNavigation/issues"
+    },
+    "homepage": "https://github.com/tushaarv/CheckSoftNavigation#readme"
+  }
